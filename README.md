@@ -15,10 +15,15 @@ Flask 기반 WebProject, Kiosk
 
 ## 주요 기능
 ### 페이지 구성
-|<img src='https://user-images.githubusercontent.com/60689555/233337277-1d41f83f-d759-42a2-85d7-5a61e1a55148.png'>|<img src='https://user-images.githubusercontent.com/60689555/233338183-8e00e857-b3c2-4e31-9561-197e1bbd04a5.png'>|<img src='https://user-images.githubusercontent.com/60689555/233338511-5f8c596a-0943-470d-921d-1eb8dbaf8380.png'>|<img src='https://user-images.githubusercontent.com/60689555/233338604-ad956ff2-6d70-4b99-853c-5f125dc8cc02.png'>|
-|-|-|-|-|
 
-
+<table bordercolor='white' >
+<tr>
+<td><img src='https://user-images.githubusercontent.com/60689555/233337277-1d41f83f-d759-42a2-85d7-5a61e1a55148.png'></td>
+<td><img src='https://user-images.githubusercontent.com/60689555/233338183-8e00e857-b3c2-4e31-9561-197e1bbd04a5.png'></td>
+<td><img src='https://user-images.githubusercontent.com/60689555/233338511-5f8c596a-0943-470d-921d-1eb8dbaf8380.png'></td>
+<td><img src='https://user-images.githubusercontent.com/60689555/233338604-ad956ff2-6d70-4b99-853c-5f125dc8cc02.png'></td>
+</tr>
+</table>
 
 - 메인페이지
 - 메뉴 페이지
